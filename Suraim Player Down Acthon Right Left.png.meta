@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 13dd58dff65bdca4ab659a225e850c06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5126799166137739256
+    second: Suraim Player Down Acthon Right Left_0
+  - first:
+      213: 4721254239006943083
+    second: Suraim Player Down Acthon Right Left_1
+  - first:
+      213: -4660201591893409383
+    second: Suraim Player Down Acthon Right Left_2
+  - first:
+      213: 8398094575365426487
+    second: Suraim Player Down Acthon Right Left_3
+  - first:
+      213: 3612530425344872116
+    second: Suraim Player Down Acthon Right Left_4
+  - first:
+      213: 2464990619648479424
+    second: Suraim Player Down Acthon Right Left_5
+  - first:
+      213: 7597353502774656523
+    second: Suraim Player Down Acthon Right Left_6
+  - first:
+      213: 5755359896031614875
+    second: Suraim Player Down Acthon Right Left_7
+  - first:
+      213: 3542983184248597230
+    second: Suraim Player Down Acthon Right Left_8
+  - first:
+      213: 9042897515545029581
+    second: Suraim Player Down Acthon Right Left_9
+  - first:
+      213: 3251438552396826616
+    second: Suraim Player Down Acthon Right Left_10
+  - first:
+      213: -4015278550835277177
+    second: Suraim Player Down Acthon Right Left_11
+  - first:
+      213: -6950409543260671590
+    second: Suraim Player Down Acthon Right Left_12
+  - first:
+      213: -7814707267492216182
+    second: Suraim Player Down Acthon Right Left_13
+  - first:
+      213: -4908887658753340699
+    second: Suraim Player Down Acthon Right Left_14
+  - first:
+      213: -4691402561845031454
+    second: Suraim Player Down Acthon Right Left_15
+  - first:
+      213: 6799230243259134594
+    second: Suraim Player Down Acthon Right Left_16
+  - first:
+      213: 4283735562415211246
+    second: Suraim Player Down Acthon Right Left_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80857934253f9d8b0800000000000000
+      internalID: -5126799166137739256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 136
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e05257b3458140800000000000000
+      internalID: 4721254239006943083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991cb7dc753a35fb0800000000000000
+      internalID: -4660201591893409383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 139
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d8ac275860c8470800000000000000
+      internalID: 8398094575365426487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bec8f62849422230800000000000000
+      internalID: 3612530425344872116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 109
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c051d298e7653220800000000000000
+      internalID: 2464990619648479424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 110
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef3fd12c83f6960800000000000000
+      internalID: 7597353502774656523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 109
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b975e7d05552fdf40800000000000000
+      internalID: 5755359896031614875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeae15e3f643b2130800000000000000
+      internalID: 3542983184248597230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 71
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe25a0163de7d70800000000000000
+      internalID: 9042897515545029581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 72
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f78f94f22e6f1d20800000000000000
+      internalID: 3251438552396826616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d73f8e6dd648c0800000000000000
+      internalID: -4015278550835277177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 43
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a917672685f2b8f90800000000000000
+      internalID: -6950409543260671590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 46
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828671f4259c8390800000000000000
+      internalID: -7814707267492216182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 45
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea45b9cea020ebb0800000000000000
+      internalID: -4908887658753340699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 46
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed8ed2e93ac4eeb0800000000000000
+      internalID: -4691402561845031454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 13
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282bd83e1e7bb5e50800000000000000
+      internalID: 6799230243259134594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suraim Player Down Acthon Right Left_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 14
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2877d3cc2e27b30800000000000000
+      internalID: 4283735562415211246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
