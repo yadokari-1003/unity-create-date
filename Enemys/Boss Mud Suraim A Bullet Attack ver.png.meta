@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: f3439dc61633bc54f8846b3c1cd5b4de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7458688750995574438
+    second: Boss Mud Suraim A Bullet Attack ver_0
+  - first:
+      213: -2854454725342870683
+    second: Boss Mud Suraim A Bullet Attack ver_1
+  - first:
+      213: -6994152226285617419
+    second: Boss Mud Suraim A Bullet Attack ver_2
+  - first:
+      213: 8831096619237330651
+    second: Boss Mud Suraim A Bullet Attack ver_3
+  - first:
+      213: 2277839806105509540
+    second: Boss Mud Suraim A Bullet Attack ver_4
+  - first:
+      213: -7008728050065080191
+    second: Boss Mud Suraim A Bullet Attack ver_5
+  - first:
+      213: -7170967752435185306
+    second: Boss Mud Suraim A Bullet Attack ver_6
+  - first:
+      213: 8044527621003205559
+    second: Boss Mud Suraim A Bullet Attack ver_7
+  - first:
+      213: 8966242996260829682
+    second: Boss Mud Suraim A Bullet Attack ver_8
+  - first:
+      213: 2859445973571321571
+    second: Boss Mud Suraim A Bullet Attack ver_9
+  - first:
+      213: 9030900198238832531
+    second: Boss Mud Suraim A Bullet Attack ver_10
+  - first:
+      213: 804831182499416717
+    second: Boss Mud Suraim A Bullet Attack ver_11
+  - first:
+      213: -7127044865825063741
+    second: Boss Mud Suraim A Bullet Attack ver_12
+  - first:
+      213: 1917231381365487456
+    second: Boss Mud Suraim A Bullet Attack ver_13
+  - first:
+      213: -2676023320363015226
+    second: Boss Mud Suraim A Bullet Attack ver_14
+  - first:
+      213: 139454520938121572
+    second: Boss Mud Suraim A Bullet Attack ver_15
+  - first:
+      213: 1157817753080794200
+    second: Boss Mud Suraim A Bullet Attack ver_16
+  - first:
+      213: 3550659266202265406
+    second: Boss Mud Suraim A Bullet Attack ver_17
+  - first:
+      213: -8828022356693175045
+    second: Boss Mud Suraim A Bullet Attack ver_18
+  - first:
+      213: 1692098079877983137
+    second: Boss Mud Suraim A Bullet Attack ver_19
+  - first:
+      213: -6952556685375484057
+    second: Boss Mud Suraim A Bullet Attack ver_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae0b45b6e5928760800000000000000
+      internalID: 7458688750995574438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 256
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563c0840d80f268d0800000000000000
+      internalID: -2854454725342870683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fefc375b97cfee90800000000000000
+      internalID: -6994152226285617419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde4bc6069b5e8a70800000000000000
+      internalID: 8831096619237330651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 256
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aed9223c338c9f10800000000000000
+      internalID: 2277839806105509540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800e88e8fefbbe90800000000000000
+      internalID: -7008728050065080191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 192
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669c15492da9b7c90800000000000000
+      internalID: -7170967752435185306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 192
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd6b3ef37e3af60800000000000000
+      internalID: 8044527621003205559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9f5f9ff7e7e6c70800000000000000
+      internalID: 8966242996260829682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 192
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeb32586facea720800000000000000
+      internalID: 2859445973571321571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397c70ee1e3345d70800000000000000
+      internalID: 9030900198238832531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a090142b55b2b00800000000000000
+      internalID: 804831182499416717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccb93a8476a71d90800000000000000
+      internalID: -7127044865825063741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 128
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067758e88cf5b9a10800000000000000
+      internalID: 1917231381365487456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3e913e7fadcdad0800000000000000
+      internalID: -2676023320363015226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c6ded5217fe100800000000000000
+      internalID: 139454520938121572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c850fac15611010800000000000000
+      internalID: 1157817753080794200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 64
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376f685ac9764130800000000000000
+      internalID: 3550659266202265406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b81080709c7580800000000000000
+      internalID: -8828022356693175045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab6f301d3a8b7710800000000000000
+      internalID: 1692098079877983137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A Bullet Attack ver_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f4d67e78e838f90800000000000000
+      internalID: -6952556685375484057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

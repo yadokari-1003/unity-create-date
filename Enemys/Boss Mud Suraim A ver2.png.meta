@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: ab86741e89abd7f4284b1265d8a115b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7593398103170072085
+    second: Boss Mud Suraim A ver2_0
+  - first:
+      213: -2495659566306836311
+    second: Boss Mud Suraim A ver2_1
+  - first:
+      213: 3211557007756428653
+    second: Boss Mud Suraim A ver2_2
+  - first:
+      213: -1449769175945705209
+    second: Boss Mud Suraim A ver2_3
+  - first:
+      213: 5954336073742784929
+    second: Boss Mud Suraim A ver2_4
+  - first:
+      213: 7428933389853523696
+    second: Boss Mud Suraim A ver2_5
+  - first:
+      213: -3328898285035099543
+    second: Boss Mud Suraim A ver2_6
+  - first:
+      213: 35842243116412932
+    second: Boss Mud Suraim A ver2_7
+  - first:
+      213: 2883855862461278641
+    second: Boss Mud Suraim A ver2_8
+  - first:
+      213: 4799543371111056274
+    second: Boss Mud Suraim A ver2_9
+  - first:
+      213: -2625844761351824630
+    second: Boss Mud Suraim A ver2_10
+  - first:
+      213: 2347834361018254750
+    second: Boss Mud Suraim A ver2_11
+  - first:
+      213: 9157660670876217095
+    second: Boss Mud Suraim A ver2_12
+  - first:
+      213: -527453348581721454
+    second: Boss Mud Suraim A ver2_13
+  - first:
+      213: 2113499671210549537
+    second: Boss Mud Suraim A ver2_14
+  - first:
+      213: 5389329975592651421
+    second: Boss Mud Suraim A ver2_15
+  - first:
+      213: 6245037951614652936
+    second: Boss Mud Suraim A ver2_16
+  - first:
+      213: 3179415408146670138
+    second: Boss Mud Suraim A ver2_17
+  - first:
+      213: -152619239449005585
+    second: Boss Mud Suraim A ver2_18
+  - first:
+      213: 1742941287922632846
+    second: Boss Mud Suraim A ver2_19
+  - first:
+      213: -5702161390352534331
+    second: Boss Mud Suraim A ver2_20
+  - first:
+      213: -6579733520549948561
+    second: Boss Mud Suraim A ver2_21
+  - first:
+      213: -1317403740505833701
+    second: Boss Mud Suraim A ver2_22
+  - first:
+      213: -5558942335291630224
+    second: Boss Mud Suraim A ver2_23
+  - first:
+      213: -7660683308139231153
+    second: Boss Mud Suraim A ver2_24
+  - first:
+      213: -4815617208731606965
+    second: Boss Mud Suraim A ver2_25
+  - first:
+      213: -4634459172418990573
+    second: Boss Mud Suraim A ver2_26
+  - first:
+      213: -1523218939840199454
+    second: Boss Mud Suraim A ver2_27
+  - first:
+      213: 2787939380442637137
+    second: Boss Mud Suraim A ver2_28
+  - first:
+      213: 1872568505409430244
+    second: Boss Mud Suraim A ver2_29
+  - first:
+      213: 3526841521086755489
+    second: Boss Mud Suraim A ver2_30
+  - first:
+      213: -4891743134987082384
+    second: Boss Mud Suraim A ver2_31
+  - first:
+      213: -1873493217068902592
+    second: Boss Mud Suraim A ver2_32
+  - first:
+      213: 439673382682901931
+    second: Boss Mud Suraim A ver2_33
+  - first:
+      213: -3005912622945335357
+    second: Boss Mud Suraim A ver2_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 384
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be14c6e18a4de9690800000000000000
+      internalID: -7593398103170072085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 384
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0c9f5d8d2ad5dd0800000000000000
+      internalID: -2495659566306836311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 384
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d650d3f351eb19c20800000000000000
+      internalID: 3211557007756428653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 384
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709027d9d9261ebe0800000000000000
+      internalID: -1449769175945705209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99bb49c1d02a250800000000000000
+      internalID: 5954336073742784929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 320
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef142de8fd81760800000000000000
+      internalID: 7428933389853523696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 320
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a6313a5a06dc1d0800000000000000
+      internalID: -3328898285035099543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 320
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40038e884565f7000800000000000000
+      internalID: 35842243116412932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 320
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9ae69a0a3850820800000000000000
+      internalID: 2883855862461278641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293c72754476b9240800000000000000
+      internalID: 4799543371111056274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 256
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bdd441a102f8bd0800000000000000
+      internalID: -2625844761351824630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 256
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9503f779ee259020800000000000000
+      internalID: 2347834361018254750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f642d5cdb861f70800000000000000
+      internalID: 9157660670876217095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 256
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a323a59fb1ea8f0800000000000000
+      internalID: -527453348581721454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 256
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121e86fc0c8a45d10800000000000000
+      internalID: 2113499671210549537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a80941f0fbaca40800000000000000
+      internalID: 5389329975592651421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 192
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80213daede4daa650800000000000000
+      internalID: 6245037951614652936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a326cfbe77d8f1c20800000000000000
+      internalID: 3179415408146670138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 192
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe170ce3c99c1edf0800000000000000
+      internalID: -152619239449005585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e888dfaeddb203810800000000000000
+      internalID: 1742941287922632846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f6144d6addd0b0800000000000000
+      internalID: -5702161390352534331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d3e6593710b4a0800000000000000
+      internalID: -6579733520549948561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 128
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff0652744a7bde0800000000000000
+      internalID: -1317403740505833701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 128
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ddf0a066baad2b0800000000000000
+      internalID: -5558942335291630224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48c8998e19cfa590800000000000000
+      internalID: -7660683308139231153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b406b43b9ad7b2db0800000000000000
+      internalID: -4815617208731606965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e4ae5efe71fafb0800000000000000
+      internalID: -4634459172418990573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e48dafc1707cdae0800000000000000
+      internalID: -1523218939840199454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1532b9a6810c0b620800000000000000
+      internalID: 2787939380442637137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_29
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 64
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e263866223bcf910800000000000000
+      internalID: 1872568505409430244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2797b6dabd1f030800000000000000
+      internalID: 3526841521086755489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a3aa49890d1cb0800000000000000
+      internalID: -4891743134987082384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047118368d30006e0800000000000000
+      internalID: -1873493217068902592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 33
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad3200bc980a1600800000000000000
+      internalID: 439673382682901931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Mud Suraim A ver2_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 34
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70b7b356ad846d0800000000000000
+      internalID: -3005912622945335357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
